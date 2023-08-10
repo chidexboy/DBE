@@ -1,0 +1,17 @@
+body{
+    background-image: url('S.jpg');
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#menu a{
+    color: aliceblue;
+    text-align: end;
+    text-decoration: none;
+    margin: 5px;
+}
+.demo{
+    color: aliceblue;
+    margin-top: 230px;
+    margin-left: 500px;
+}   
